@@ -1,5 +1,9 @@
 # IoT Prototyping Backend
 
+## Original Repo
+
+https://code.curious.bio/curious.bio/iot-backend.git
+
 ## Overview
 
 This project is a backend solution for prototyping Internet of Things (IoT) services. It leverages the power of Docker containers to easily integrate Grafana, InfluxDB, and Node-RED into a seamless, scalable, and robust backend system. The solution aims to provide rapid prototyping capabilities for IoT applications that need real-time data visualization, storage, and workflow automation.
